@@ -1,9 +1,9 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "paper",
+    name: "paper-log",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "student",
+    role: "Univ. student",
     bio: "Good people get out of the bed, try to empty the ocean with the laddle",
     email: "yblee001223@naver.com",
     linkedin: "",
@@ -12,14 +12,14 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `paper`,
+      name: `paper-log`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "paper",
-    description: "welcome to my paper!",
+    title: "paper-log",
+    description: "Welcome everyone!",
     theme: "auto", // ['light', 'dark', 'auto']
   },
 
