@@ -19,8 +19,8 @@ const CONFIG = {
   // blog setting (required)
   blog: {
     title: "paper-log",
-    description: "Welcome everyone!",
-    theme: "light", // ['light', 'dark', 'auto']
+    description: "Have a nice day!",
+    theme: "auto", // ['light', 'dark', 'auto']
   },
 
   // CONFIG configration (required)
